@@ -1,0 +1,5 @@
+{
+    "user": "nicolasmenegoni",
+    "repo": "sqlitei",
+    "dependencies": ["sampctl/samp-stdlib"]
+}
